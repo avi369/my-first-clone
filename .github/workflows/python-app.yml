@@ -7,7 +7,7 @@ on:
   push:
     branches: [ master ]
   pull_request:
-    branches: [ avi369-path-1 ]
+    branches: [ avi369-patch-1 ]
 
 jobs:
   build:
